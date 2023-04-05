@@ -1,0 +1,95 @@
+.navy {
+  background-color: #2c3e50;
+}
+
+.border {
+  border: 5px solid #1e2e4d;
+}
+
+.jumbotron h1 {
+  float: right;
+  font-family: impact;
+  font-size: 70px;
+  color: #b0c92d;
+  padding: 30px;
+}
+
+.jumbotron {
+  position: relative;
+  background: black url("../img/pnw-foliage.jpg") center center;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.col-md-12 img {
+  align-items: left;
+  display: block;
+  margin: auto;
+  border: 2px solid #b0c92d;
+}
+
+.col-md-12 h3 {
+  text-align: center;
+  font-family: Arial Black;
+  color: #2d5867;
+}
+
+.col-md-12 p {
+  text-indent: 40px;
+  font-size: 24px;
+  font-family: Courier New;
+  color: #838b8b;
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 12px;
+}
+
+.container-fluid h1 {
+  text-align: left;
+  font-family: impact;
+  color: #b0c92d;
+  background-color: #1e2e4d;
+  padding: 18px;
+}
+
+.xs-text {
+  font-size: 12px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+  text-align: center;
+}
+
+.col-md-4 img {
+  border: 5px solid #1e2e4d;
+  display: block;
+  margin: auto;
+}
+.col-md-4 h2 {
+  text-align: center;
+  font-family: Arial Black;
+  color: #d0a908;
+}
+
+.col-md-4 p {
+  font-size: 18px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+.col-md-4 p {
+  font-size: 18px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+.col-md-4 ul {
+  font-size: 18px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+
+ol {
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}

@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  font-family:inherit;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+font-style: italic;
+}
+
+p {
+font-weight: bold;
+font-size: 15px;
+line-height: 20px;
+}
